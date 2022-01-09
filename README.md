@@ -1,2 +1,2 @@
-# applied_data_science-numpy_cheatsheet
+# 'numpy' cheatsheet
 This repo contains the cheatsheet for Numpy arrays and functions implemented in Python   
